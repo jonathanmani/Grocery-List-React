@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 
-export default function FilterableProductTable(){
-    return (
-        <>
-            <SearchBar>
-            <ProductTable>
-        </>
-    )
+export default function FilterableProductTable() {
+  return (
+    <>
+      <SearchBar />
+      <ProductTable />
+    </>
+  );
 }
